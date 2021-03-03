@@ -2,7 +2,7 @@
 
 ![Header image](./assets/const_header.jpg)
 
-A repository that contains some helpful notes.
+A repository that contains some helpful resources in Javascript. 
 
 ## Contents
     - Javascript Looping
